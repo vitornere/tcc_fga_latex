@@ -1,1 +1,1 @@
-# tcc_fga_latex
+# Padrão TCC FGA Latex
